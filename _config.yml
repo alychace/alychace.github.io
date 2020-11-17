@@ -1,9 +1,9 @@
 # main text of home
 name: Aly Chace
-bio: A Girl who travels the world eating noodles
+bio: PhD student in Atlanta, Ga.
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: PhD student in Atlanta, Ga.
 
 picture: assets/images/picture.jpg
 
@@ -11,9 +11,9 @@ url: https://alexchace.com
 # your url: http://USERNAME.github.io
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
+#facebook: myfacebook
 twitter: specularanomaly
-github: leximch
+#github: leximch
 email: me@alychace.com
 
 gems:
