@@ -1,5 +1,5 @@
 # main text of home
-name: Jane Doe
+name: Aly Chace
 bio: A Girl who travels the world eating noodles
 
 # twitter summary info
@@ -12,9 +12,9 @@ url: http://koppl.in/violet
 
 # if you don't have any of social below, comment the line
 facebook: myfacebook
-twitter: mytwitter
-github: mygithub
-email: me@jane.doe
+twitter: specularanomaly
+github: leximch
+email: me@alychace.com
 
 gems:
   - jekyll-seo-tag
