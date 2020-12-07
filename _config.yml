@@ -14,8 +14,8 @@ url: https://alexchace.com
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
 twitter: specularanomaly
-#github: leximch
-email: me@alychace.com
+github: leximch
+email: achacega@gmail.com
 
 gems:
   - jekyll-seo-tag
