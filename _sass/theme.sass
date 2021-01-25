@@ -1,0 +1,37 @@
+@media only screen and (prefers-color-scheme: light)
+  body
+    background: $light
+    color: $dark
+  strong
+    color: $accent
+  h1, 
+  h2, 
+  h3, 
+  h4, 
+  h5, 
+  h6
+    color: $accent
+  a
+    color: $accent
+    &:hover
+      color: $dark
+      border-color: $dark
+
+@media only screen and (prefers-color-scheme: dark)
+  body
+    background: $dark
+    color: $light
+  strong
+    color: lighten($accent, 5%)
+  h1, 
+  h2, 
+  h3, 
+  h4, 
+  h5, 
+  h6
+    color: lighten($accent, 5%)
+  a
+    color: lighten($accent, 5%)
+    &:hover
+      color: $light
+      border-color: $light
