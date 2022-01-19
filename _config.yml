@@ -1,12 +1,12 @@
 # main text of home
 name: Aly Chace
 shortname: Aly Chace
-bio: PhD student in Atlanta, Ga.
+bio: Digital Marketer in Atlanta, Ga.
 
 # twitter summary info
-description: PhD student in Atlanta, Ga.
+description: Digital Marketer in Atlanta, Ga.
 
-picture: assets/images/aly2021.jpeg
+picture: assets/images/alynew.jpeg
 
 url: https://alychace.com
 # your url: http://USERNAME.github.io
@@ -15,7 +15,7 @@ url: https://alychace.com
 #facebook: myfacebook
 twitter: alychace
 github: leximch
-email: me@alychace.com
+email: achacega@gmail.com
 
 gems:
   - jekyll-seo-tag
