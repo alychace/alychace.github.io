@@ -29,9 +29,6 @@ layout: default
       <li>I use data to inform and guide content, optimize performance, and refine target audiences as algorithmic, economic, and industry conditions shift.</li>
       <li>I implement effective content strategies, social media campaigns, and websites that build communities and engage audiences.</li>
     </ol>
-
-    Currently, I am a Content Operations Specialist/Editor at <a href="https://www.global-savings-group.com/">Global Savings Group</a>. Formerly, I was a PhD student & film instructor at <a href="https://gsu.edu">GSU</a>. Prior to that, I was trained as an anthropologist and Trained as an anthropologist, self-taught script kiddie (Python, Vala, Ruby). Freetime photographer & part-time web designer.
-
   <hr>
   <h2>Content I've Written</h2>
   <hr>
