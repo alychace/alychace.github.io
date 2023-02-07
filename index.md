@@ -4,18 +4,21 @@ layout: default
 <header>
   <img alt="{{ site.name }} picture" src="{{ site.picture }}" />
   <nav>
+    <hr>
     <ul>
-      <li><a href="mailto:{{ site.email }}">e-mail</a></li>
-      <li><a href="{{site.url }}/assets/resume.pdf">resume</a></li>
-      <li><a href="{{site.url }}/assets/cv.pdf">cv</a></li>
-      <li><a href="https://github.com/{{ site.github }}">github</a></li>
+      <li><a href="mailto:{{ site.email }}">E-MAIL</a></li>
+      <li><a href="{{site.linkedin}}">LINKEDIN</a></li>
+      <!-- <li><a href="{{site.url }}/assets/cv.pdf">cv</a></li> -->
+      <li><a href="https://github.com/{{ site.github }}">GITHUB</a></li>
     </ul>
+    <hr>
+<!--     <ul>
+      <li><a href="#words">WORDS</a></li>
+      <li><a href="#posts">POSTS</a></li>
+      <li><a href="#photos">PHOTOS</a></li>
+      <li><a href="#websites">WEBSITES</a></li>
+    </ul> -->
   </nav>
-
-  <small>
-    Based on <a href="https://github.com/sergiokopplin/violet">Violet</a> theme.
-    <br>© 2022-23 Aly Chace.
-  </small>
 </header>
 
 <section class="content">
@@ -32,7 +35,7 @@ layout: default
 
     Currently, I am a Content Operations Editor at Global Savings Group. I also manage an influencer/e-commerce business at <a href="https://instagram.com/alygbmods">Aly's Mods</a>. Formerly, I was a PhD student in Film and an MA student in Anthropology at <a href="https://gsu.edu">GSU</a>. Before grad school, I worked at <a href="https://simpleshowing.com">SimpleShowing</a>, a digital real estate startup.
   <hr>
-  <h2>Content I've Written</h2>
+  <h2 id="words">Words I've Written</h2>
   <h3>Excerpt from Fully on CNN Coupons</h3>
   The Fully Jarvis Desk is a highly adjustable, durable, customizable and ergonomic standing desk that is great for improving posture, reducing discomfort, and promoting movement in your workday. Made with eco-friendly materials and methods, it has been recognized as a top pick by Wirecutter in 2023 for being one of the best standing desks available in the market. Whether you are looking for a desk that can be adjusted to your preferred height or one that is customizable to your specific needs and preferences, the Fully Jarvis Desk is made to suit your needs. Check our page for the best Fully coupon codes and deals to save big on your next productivity upgrade. <a href="https://coupons.cnn.com/fully">LINK</a>.
   <h3>Excerpt fron JTV on Business Insider Coupons</h3>
@@ -40,24 +43,25 @@ layout: default
   <h3>Excerpt from Zaful on CNN Coupons</h3>
   Zaful is your one-stop-shop for all the latest fashion trends. And new customers get a Zaful coupon for 15% off your first order by signing up for their email list! Keep your wardrobe fresh and stylish with a wide range of clothing, shoes, and accessories for men and women. From trendy dresses to comfortable loungewear, Zaful has it all. Plus, their affordable prices mean you can score the latest looks without breaking the bank. Don't miss out, sign up for emails now and get your Zaful coupon. It's time to elevate your fashion game. <a href="https://coupons.cnn.com/zaful">LINK</a>.
   <hr>
-  <h2>Posts I've Made</h2>
+  <h2 id="posts">Posts I've Made</h2>
     <ul>
       <li>- How to Swap Your Game Boy's Shell. <a href="https://www.instagram.com/p/CZZaplyOvC9/">INSTA</a>.</li>
       <li>- Top 4 Cozy Game Boy RPGs. <a href="https://www.instagram.com/p/Cn7VwFXOu-E/">INSTA</a>.</li>
     </ul>
   <hr>
-  <h2>Photos I've Taken</h2>
+  <h2 id="photos">Photos I've Taken</h2>
     <ul>
       <li>- Hulsey Yards. <a href="https://www.instagram.com/p/B5dO9bwHfuY/">INSTA</a>.</li>
       <li>- GSU on a Rainy Day. <a href="https://www.instagram.com/p/Bg111D5gQXL/">INSTA</a>.</li>
       <li>- Custom Game Boy (product photograph). <a href="https://www.flickr.com/photos/161224807@N06/52674784597/in/dateposted-public/">FLICKR</a>.</li>
     </ul>
   <hr>
-  <h2>Websites I've Built</h2>
+  <h2 id="websites">Websites I've Built</h2>
     <ul>
       <li>- Morgan Tamayo (personal website). <a href="https://morgantamayo.com">LINK</a>.</li>
       <li>- Specular Anomalies (academic blog). <a href="https://distort.jp">LINK</a>.</li>
       <li>- SimpleShowing.com (employer website). <a href="https://simpleshowing.com">LINK</a>. <a href="https://web.archive.org/web/20180107122945/https://simpleshowing.com/sell">ARCHIVE</a>.</li>
+      <li>- Alysmods.com (landing page). <a href="https://alysmods.com">LINK</a>.</li>
     </ul>
 <!--   <h2>Apps I've Coded</h2>
   - Pomodorino (graphical task manager in Vala). <a href="https://github.com/alychace/pomodorino">SRC</a>.<br>
@@ -76,3 +80,10 @@ layout: default
     - Film Aesthetics and Analysis, Spring 2020. <a href="{{site.url }}/assets/flme1010.pdf">PDF</a>. -->
 
 </section>
+
+<footer>
+    <small>
+    Based on <a href="https://github.com/sergiokopplin/violet">Violet</a> theme.
+    <br>© 2022-23 Aly Chace.
+  </small>
+</footer>
