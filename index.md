@@ -29,8 +29,13 @@ layout: default
       <li>I collect feedback from key datapoints in order to guide content creation, optimize performance, and refine target audiences as algorithmic, economic, and industry conditions shift.</li>
       <li>I implement effective content strategies, social media campaigns, and websites that build communities and engage audiences.</li>
     </ol>
+
+    Currently, I am a Content Operations Editor at Global Savings Group. I also manage an influencer/e-commerce business at <a href="https://instagram.com/alygbmods">Aly's Mods</a>. Formerly, I was a PhD student in Film and an MA student in Anthropology at <a href="https://gsu.edu">GSU</a>. Before grad school, I worked at <a href="https://simpleshowing.com">SimpleShowing</a>, a digital real estate startup.
   <hr>
   <h2>Content I've Written</h2>
+  <h3>Excerpt from Fully on CNN Coupons</h3>
+  The Fully Jarvis Desk is a highly adjustable, durable, customizable and ergonomic standing desk that is great for improving posture, reducing discomfort, and promoting movement in your workday. Made with eco-friendly materials and methods, it has been recognized as a top pick by Wirecutter in 2023 for being one of the best standing desks available in the market. Whether you are looking for a desk that can be adjusted to your preferred height or one that is customizable to your specific needs and preferences, the Fully Jarvis Desk is made to suit your needs. Check our page for the best Fully coupon codes and deals to save big on your next productivity upgrade.
+  <h3>Excerpt </h3>
   <hr>
   <h2>Posts I've Made</h2>
     <ul>
@@ -51,7 +56,6 @@ layout: default
       <li>- Specular Anomalies (academic blog). <a href="https://distort.jp">LINK</a>.</li>
       <li>- SimpleShowing.com (employer website). <a href="https://simpleshowing.com">LINK</a>. <a href="https://web.archive.org/web/20180107122945/https://simpleshowing.com/sell">ARCHIVE</a>.</li>
     </ul>
-  <hr>
 <!--   <h2>Apps I've Coded</h2>
   - Pomodorino (graphical task manager in Vala). <a href="https://github.com/alychace/pomodorino">SRC</a>.<br>
   - Post (package manager for GNU/Linux in Ruby). <a href="https://github.com/alychace/post">SRC</a>.<br>
