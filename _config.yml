@@ -6,7 +6,7 @@ bio: Digital Marketer in Atlanta, Ga.
 # twitter summary info
 description: Digital Marketer in Atlanta, Ga.
 
-picture: assets/images/alypfp.jpeg
+picture: assets/images/aly_circlepfp.jpeg
 
 url: https://alychace.com
 # your url: http://USERNAME.github.io
@@ -21,3 +21,4 @@ gems:
   - jekyll-seo-tag
 
 exclude: [README.md, Gemfile, Gemfile.lock, _site, Rakefile, travis.sh, vendor]
+
