@@ -19,6 +19,10 @@ layout: default
       <li><a href="#websites">WEBSITES</a></li>
     </ul> -->
   </nav>
+  <small>
+    Based on <a href="https://github.com/sergiokopplin/violet">Violet</a> theme.
+    <br>© 2022-23 Aly Chace.
+  </small>
 </header>
 
 <section class="content">
