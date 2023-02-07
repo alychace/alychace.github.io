@@ -25,8 +25,8 @@ layout: default
 
     Here's what that means:
     <ol>
-      <li>I tell compelling, SEO-optimized stories and create engaging, helpful content that drives conversions and improves online presence.</li>
-      <li>I use data to inform and guide content, optimize performance, and refine target audiences as algorithmic, economic, and industry conditions shift.</li>
+      <li>I tell compelling stories and create helpful, SEO-optimized content that drives conversions and improves online presence.</li>
+      <li>I collect feedback from key datapoints in order to guide content creation, optimize performance, and refine target audiences as algorithmic, economic, and industry conditions shift.</li>
       <li>I implement effective content strategies, social media campaigns, and websites that build communities and engage audiences.</li>
     </ol>
   <hr>
