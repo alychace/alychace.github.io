@@ -2,7 +2,7 @@
 layout: default
 ---
 <header>
-  <img alt="{{ site.name }} picture" style="float:left;width: 200px;margin: 15px;border-radius: 10%" src="{{ site.picture }}" />
+  <img alt="{{ site.name }} picture" src="{{ site.picture }}" />
   <br>
   <h1>Hey, I'm Aly.</h1>
     <br>
