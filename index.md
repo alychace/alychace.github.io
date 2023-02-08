@@ -7,8 +7,10 @@ layout: default
   <h1>Hey, I'm Aly.</h1>
     <br>
 
-    I'm a Digital Marketer in Atlanta, Ga. <br><br><br><br><br>
-    <br><hr>
+    I'm a Digital Marketer in Atlanta, Ga.<br><hr>
+
+    <a href="mailto:{{ site.email }}">E-MAIL</a> &#x2022; <a href="{{site.linkedin}}">LINKEDIN</a> &#x2022; <a href="https://github.com/{{ site.github }}">GITHUB</a>
+    <br><br><br><hr>
 </header>
  
 <section class="content">
@@ -68,5 +70,8 @@ layout: default
 </section>
 
 <footer>
-
+  <small>
+   Based on <a href="https://github.com/sergiokopplin/violet">Violet</a> theme.
+   <br>© 2022-23 Aly Chace.
+  </small>
 </footer>
