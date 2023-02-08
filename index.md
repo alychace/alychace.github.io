@@ -2,35 +2,17 @@
 layout: default
 ---
 <header>
-  <img alt="{{ site.name }} picture" src="{{ site.picture }}" />
-  <nav>
-    <hr>
-    <ul>
-      <li><a href="mailto:{{ site.email }}">E-MAIL</a></li>
-      <li><a href="{{site.linkedin}}">LINKEDIN</a></li>
-      <!-- <li><a href="{{site.url }}/assets/cv.pdf">cv</a></li> -->
-      <li><a href="https://github.com/{{ site.github }}">GITHUB</a></li>
-    </ul>
-    <hr>
-<!--     <ul>
-      <li><a href="#words">WORDS</a></li>
-      <li><a href="#posts">POSTS</a></li>
-      <li><a href="#photos">PHOTOS</a></li>
-      <li><a href="#websites">WEBSITES</a></li>
-    </ul> -->
-  </nav>
-  <small>
-    Based on <a href="https://github.com/sergiokopplin/violet">Violet</a> theme.
-    <br>© 2022-23 Aly Chace.
-  </small>
+  <img alt="{{ site.name }} picture" style="float:left;width: 200px;margin: 15px;border-radius: 10%" src="{{ site.picture }}" />
+  <br>
+  <h1>Hey, I'm Aly.</h1>
+    <br>
+
+    I'm a Digital Marketer in Atlanta, Ga. <br><br><br><br><br>
+    <br><hr>
 </header>
-
+ 
 <section class="content">
-	<h1>Hey, I'm Aly.</h1>
-
-    I'm a Digital Marketer in Atlanta, Ga. 
-
-    Here's what that means:
+    <h2>What I Do</h2>
     <ol>
       <li>I tell compelling stories and create helpful, SEO-optimized content that drives conversions and improves online presence.</li>
       <li>I collect feedback from key datapoints in order to guide content creation, optimize performance, and refine target audiences as algorithmic, economic, and industry conditions shift.</li>
@@ -42,7 +24,7 @@ layout: default
   <h2 id="words">Words I've Written</h2>
   <h3>Excerpt from Fully on CNN Coupons</h3>
   The Fully Jarvis Desk is a highly adjustable, durable, customizable and ergonomic standing desk that is great for improving posture, reducing discomfort, and promoting movement in your workday. Made with eco-friendly materials and methods, it has been recognized as a top pick by Wirecutter in 2023 for being one of the best standing desks available in the market. Whether you are looking for a desk that can be adjusted to your preferred height or one that is customizable to your specific needs and preferences, the Fully Jarvis Desk is made to suit your needs. Check our page for the best Fully coupon codes and deals to save big on your next productivity upgrade. <a href="https://coupons.cnn.com/fully">LINK</a>.
-  <h3>Excerpt fron JTV on Business Insider Coupons</h3>
+  <h3>Excerpt from JTV on Business Insider Coupons</h3>
   JTV, or Jewelry Television, is an online retailer that specializes in providing high-quality jewelry and gemstones at affordable prices. From the comfort of your own home, you can shop for a wide range of jewelry, including necklaces, bracelets, earrings, and more. JTV works by offering live jewelry auctions, as well as regular programming that showcases the latest products and offers a behind-the-scenes look at the jewelry-making process. And with a JTV coupon, shoppers can save even more on their purchases and get the most bang for their buck. Whether you're looking for diamonds, sapphires, emeralds, or other precious stones, JTV has something for everyone. You can also shop for jewelry styles that fit your personal taste, from classic and traditional to trendy and unique. With JTV, the possibilities are endless, so start shopping today and see what you can find! <a href="https://coupons.businessinsider.com/jtv">LINK</a>.
   <h3>Excerpt from Zaful on CNN Coupons</h3>
   Zaful is your one-stop-shop for all the latest fashion trends. And new customers get a Zaful coupon for 15% off your first order by signing up for their email list! Keep your wardrobe fresh and stylish with a wide range of clothing, shoes, and accessories for men and women. From trendy dresses to comfortable loungewear, Zaful has it all. Plus, their affordable prices mean you can score the latest looks without breaking the bank. Don't miss out, sign up for emails now and get your Zaful coupon. It's time to elevate your fashion game. <a href="https://coupons.cnn.com/zaful">LINK</a>.
