@@ -86,8 +86,5 @@ layout: default
 </section>
 
 <footer>
-    <small>
-    Based on <a href="https://github.com/sergiokopplin/violet">Violet</a> theme.
-    <br>© 2022-23 Aly Chace.
-  </small>
+
 </footer>
