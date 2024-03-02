@@ -13,10 +13,10 @@ url: https://alychace.com
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
-twitter: alychace
-github: alychace
-email: achacega@gmail.com
-linkedin: http://linkedin.com/in/alychace/
+# twitter: alychace
+github: alyraffauf
+email: alyraffauf@gmail.com
+linkedin: http://linkedin.com/in/alyraffauf/
 
 gems:
   - jekyll-seo-tag
